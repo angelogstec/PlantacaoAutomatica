@@ -1,0 +1,4 @@
+name: AGNS_PlantacaoAutomatica
+version: '1.0-SNAPSHOT'
+main: me.agns.plantacaoautomatica.PlantacaoAutomatica
+api-version: 1.17
