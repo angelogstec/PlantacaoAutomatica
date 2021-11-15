@@ -1,0 +1,4 @@
+name: AGNS_PlantacaoAutomatica
+version: '${project.version}'
+main: me.agns.plantacaoautomatica.PlantacaoAutomatica
+api-version: 1.17
